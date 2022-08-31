@@ -1,5 +1,5 @@
 # ShuYing-hitokoto
- 
+
 这是一个由书樱编写的 一言 Nonebot插件
 
 ## issue
